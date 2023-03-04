@@ -4,7 +4,7 @@
 ### Hi there 👋
 My name's Kamil, I'm self thaught Python developer working with Django and Customer Succsess Specialist with a lot of experience in working with international customers and building professional relationships with them. Since I have started working with Python I have became passionate about it and I spend most of my free time working on Python and Django projects. 
 
-</a>
+
 [![My Skills](https://skillicons.dev/icons?i=py,django,bootstrap,html,css,git,sqlite,stackoverflow,github)](https://skillicons.dev)
 
 
