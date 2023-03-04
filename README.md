@@ -1,11 +1,10 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-
 ### Hi there 👋
 
 
-[![My Skills](https://skills.thijs.gg/icons?i=py,html,css,git)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=py,django,bootstrap,html,css,git,sqlite,stackoverflow,)](https://skillicons.dev)
 
 
 Here are some ideas to get you started:
