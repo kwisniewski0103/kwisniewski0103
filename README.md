@@ -1,7 +1,11 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 ### Hi there 👋
 
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
 
+[![My Skills](https://skills.thijs.gg/icons?i=py,html,css,git)](https://skills.thijs.gg)
 
 
 Here are some ideas to get you started:
