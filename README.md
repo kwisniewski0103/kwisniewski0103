@@ -6,7 +6,7 @@ My name's Kamil, I'm self thaught Python developer working with Django, and Cust
 <br />
 <br />
 
-[![My Skills](https://skillicons.dev/icons?i=py,django,bootstrap,html,css,git,sqlite,stackoverflow,github,linkedin)]
+[My Skills](https://skillicons.dev/icons?i=py,django,bootstrap,html,css,git,sqlite,stackoverflow,github,linkedin)
 
 
 - 🔭 I’m currently working on Django To do project
