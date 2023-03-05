@@ -15,7 +15,8 @@ My name's Kamil, I'm self thaught Python developer working with Django, and Cust
 - 💬 Active community member of: Python developer group
 - 📫 How to reach me asap: LinkedIn
 - ⚡ Iterest: Reading books, fitness, spending time with my family, computer games, self development, and programming has become a biggy
--->
+<br />
+<br />
 You can also find me on:
 
 [![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)](https://github.com/kwisniewski0103)
