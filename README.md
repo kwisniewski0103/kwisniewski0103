@@ -10,11 +10,9 @@ My name's Kamil, I'm self thaught Python developer working with Django, and Cust
 
 
 - 🔭 I’m currently working on Django To do project
-- 🌱 I’m currently studying and learning more about Python, Django, HTML, Bootstrap, CSS
+- 🌱 I’m studying and learning more about Python, Django, HTML, Bootstrap, CSS
 - 👯 I’m looking to collaborate on some open source projects
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: LinkedIn
-- 😄 Pronouns: ...
-- ⚡ Iterest: Reading books, fitness, spending time with my family, computer games, self development, most recently programming has become a biggy
+- 💬 Active community member of: Python developer group
+- 📫 How to reach me asap: LinkedIn
+- ⚡ Iterest: Reading books, fitness, spending time with my family, computer games, self development, and programming has become a biggy
 -->
