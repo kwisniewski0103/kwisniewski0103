@@ -19,7 +19,7 @@ My name's Kamil, I'm self thaught Python developer working with Django, and Cust
 - ⚡ Iterest: Reading books, fitness, spending time with my family, computer games, self development, and programming has became a biggy
 <br />
 <br />
-
+![5282542_linkedin_network_social network_linkedin logo_icon](https://user-images.githubusercontent.com/124616552/223063265-0493c9ac-560a-49ca-910c-79ce1aaa70a5.png)
 
 
 
