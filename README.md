@@ -16,7 +16,7 @@ My name's Kamil, I'm self thaught Python developer working with Django, and Cust
 - 👯 I’m looking to collaborate on some open source projects
 - 💬 Active community member of: Python developer group
 - 📫 How to reach me asap: LinkedIn
-- ⚡ Iterest: Reading books, fitness, spending time with my family, computer games, self development, and programming has become a biggy
+- ⚡ Iterest: Reading books, fitness, spending time with my family, computer games, self development, and programming has became a biggy
 <br />
 <br />
 
