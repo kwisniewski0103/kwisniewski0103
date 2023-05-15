@@ -11,8 +11,8 @@ My name's Kamil, I'm self thaught Python developer working with Django, and Cust
 ![My Skills](https://skillicons.dev/icons?i=py,django,bootstrap,html,css,git,sqlite,stackoverflow,github)
 
 
-- 🔭 I’m currently working on Django To do project
-- 🌱 I’m studying and learning more about Python, Django, HTML, Bootstrap, CSS
+- 🔭 I’m currently working on Django Ecommerce
+- 🌱 I’m learning more about Python, Django, HTML, Bootstrap, CSS
 - 👯 I’m looking to collaborate on some open source projects
 - 💬 Active community member of: Python developer group
 - 📫 How to reach me asap: LinkedIn
